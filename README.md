@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @LuigiMarchetti, I’m currently learning C#
+- 👋 Hi, I’m @LuigiMarchetti, I’m currently learning C#, HTML, CSS and Javascript
