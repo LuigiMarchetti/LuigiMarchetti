@@ -1,5 +1,5 @@
 <div align="center">
-<h4>👋 Hi, I’m @LuigiMarchetti, currently learning C#, SQL Server, HTML, CSS and Javascript <br>🔭 I'm looking for a job so I can learn even more<br><!-- 📫 How to reach me: luigigarciamarchetti@outlook.com --></h4>
+<h3>👋 Hi, I’m @LuigiMarchetti, currently learning C#, SQL Server, HTML, CSS and Javascript <br>🔭 I'm looking for a job so I can learn even more<br><!-- 📫 How to reach me: luigigarciamarchetti@outlook.com --></h3>
 </div>
 <div dir="auto" align="center"><br>
     <img align="center" alt="Rod-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
