@@ -1,5 +1,5 @@
 <div align="center">
-<h3>👋 Hi, I’m @LuigiMarchetti, currently learning C#, SQL Server, HTML, CSS and Javascript <br><br>🔭 I'm currently working at Philips Clinical Informatics and learning every day!<br><!-- 📫 How to reach me: luigigarciamarchetti@outlook.com --></h3>
+<h3>👋 Hi, I’m @LuigiMarchetti, currently learning C#, Java, SQL Server, HTML, CSS and Javascript <br><br>🔭 I'm currently working at Philips Clinical Informatics and learning every day!<br><!-- 📫 How to reach me: luigigarciamarchetti@outlook.com --></h3>
 </div>
 <div dir="auto" align="center"><br>
   <img align="center" alt="Luigi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
