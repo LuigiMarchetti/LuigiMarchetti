@@ -1,7 +1,7 @@
 <div align="center">
     <h3>👋 Hi, I’m @LuigiMarchetti, a Java/Angular dev<br><br>
         👨‍💻 I work at Monument Software as a Full-Stack Developer<br><br>
-        📚 I am pursuing a Bachelor's degree in Computer Science at Furb<br><br>
+        📚 I am wrapping up a Bachelor's degree in Computer Science at Furb<br><br>
         ✈ I am fluent in English and have completed an exchange program in Canada<br>
         <!-- 📫 How to reach me: luigigarciamarchetti@outlook.com -->
     </h3>
